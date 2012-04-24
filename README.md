@@ -7,5 +7,9 @@ Usage
 -----
 1. Clone project
 2. Compile project: make
-3. Run tongseng with specified device index: tongseng localhost 3333 2 
-(in this case, the last parameter 2 sends TUIO events from an external trackpad)
+3. Run tongseng with specified device index
+
+Example
+-------
+tongseng localhost 3333 2  
+(In this case, the last parameter 2 sends TUIO events from an external trackpad.)
